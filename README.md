@@ -2,7 +2,7 @@
 
 # OLA Ride Analytics Dashboard:
 
-This project analyzes OLA ride booking data to uncover key business insights related to ride demand, cancellations, customer behavior, vehicle usage, and revenue generation.
+This project analyzes OLA ride booking data to understand key business insights related to ride demand, cancellations, customer behavior, vehicle usage, and revenue generation.
 
 The project includes SQL analysis, Power BI visualizations, and an interactive Streamlit dashboard.
 
