@@ -255,7 +255,7 @@ elif page == "SQL Insights Dashboard":
 
             ax.pie(
                 values,
-                labels=["Cancelled","Other"],
+                labels=["Cancelled Rides by Customer","Other"],
                 autopct=lambda p: f'{int(p*sum(values)/100)}'
             )
 
