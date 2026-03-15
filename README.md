@@ -1,6 +1,6 @@
 # Ola-Ride-Project
 
-# 🚖 OLA Ride Analytics Dashboard
+# OLA Ride Analytics Dashboard:
 
 This project analyzes OLA ride booking data to uncover key business insights related to ride demand, cancellations, customer behavior, vehicle usage, and revenue.
 
@@ -8,13 +8,13 @@ The project includes SQL analysis, Power BI visualizations, and an interactive S
 
 ---
 
-## 📊 Project Objective
+## Project Objective:
 
 The main objective of this project is to analyze ride booking data and extract meaningful insights that can help improve ride service operations, customer experience, and revenue optimization.
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used:
 
 - Python
 - SQL (PostgreSQL)
@@ -26,7 +26,7 @@ The main objective of this project is to analyze ride booking data and extract m
 
 ---
 
-## 📂 Project Structure
+## Project Structure:
 OLA Ride Project
 - app.py
 - OlaBookings.csv
@@ -36,7 +36,7 @@ OLA Ride Project
 
 ---
 
-## 📈 Key Business Questions Solved
+## Key Business Questions Solved:
 
 The analysis answers several important business questions such as:
 
@@ -53,7 +53,7 @@ The analysis answers several important business questions such as:
 
 ---
 
-## 📊 Streamlit Dashboard Features
+## Streamlit Dashboard Features:
 
 The interactive Streamlit dashboard allows users to:
 
@@ -63,26 +63,27 @@ The interactive Streamlit dashboard allows users to:
 - Visualize insights through charts and graphs
 - Explore ride patterns, cancellations, and revenue insights
 
+## You can explore the interactive dashboard here:
+
+**Streamlit Dashboard:**  
+https://ola-ride-project-hqy5unw3lym8xxhy9yvtjw.streamlit.app/
+
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project:
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/ola-ride-analytics.git
-
 ### 2️⃣ Navigate to Project Folder
 cd ola-ride-project
-
 ### 3️⃣ Install Required Libraries
 pip install -r requirements.txt
-
 ### 4️⃣ Run the Streamlit App
 streamlit run app.py
 
-
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard:
 
 In addition to the Streamlit dashboard, a Power BI dashboard was created to visualize:
 
@@ -94,7 +95,7 @@ In addition to the Streamlit dashboard, a Power BI dashboard was created to visu
 
 ---
 
-## 📌 Key Insights
+## Key Insights:
 
 - Certain vehicle types contribute significantly to ride distance and revenue.
 - Customer cancellations impact operational efficiency.
@@ -103,7 +104,7 @@ In addition to the Streamlit dashboard, a Power BI dashboard was created to visu
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Omkar Gawade**
 
