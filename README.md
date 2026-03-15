@@ -96,6 +96,10 @@ In addition to the Streamlit dashboard, a Power BI dashboard was created to visu
 ## Power BI Dashboard Preview
 
 ![Dashboard](dashboard_screenshots/dashboard1.jpg)
+![Dashboard](dashboard_screenshots/dashboard2.jpg)
+![Dashboard](dashboard_screenshots/dashboard3.jpg)
+![Dashboard](dashboard_screenshots/dashboard4.jpg)
+![Dashboard](dashboard_screenshots/dashboard5.jpg)
 
 ---
 
