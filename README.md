@@ -93,6 +93,10 @@ In addition to the Streamlit dashboard, a Power BI dashboard was created to visu
 - Revenue insights
 - Driver and customer ratings
 
+## Power BI Dashboard Preview
+
+![Dashboard](dashboard_screenshots/dashboard1.png)
+
 ---
 
 ## Key Insights:
